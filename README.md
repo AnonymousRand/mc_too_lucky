@@ -16,3 +16,5 @@ Featured in this video: https://www.youtube.com/watch?v=CN7gYnntwHk (Types of Mi
 Do NOT use these modded clients during speedruns that will be submitted to the actual leaderboards, as doing so is cheating.
 
 As per Mojang guidelines, this modded client does not distribute any of the game's code.
+
+Made with the MCP-Reborn Tool https://github.com/Hexeption/MCP-Reborn
